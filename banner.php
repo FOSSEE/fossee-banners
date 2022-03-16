@@ -6,7 +6,7 @@ if($today<$p_date){
 echo '  <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
-<div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%">
+<div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
         
 <a class="nice-text" href="https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=k_0GFfvxZUF2N13i7_uEcw&category=UubpVTjA3FS-DQx8uW4rlA" target="_blank">  
 <img src="https://static.fossee.in/python/banners/web-bnr.png">
