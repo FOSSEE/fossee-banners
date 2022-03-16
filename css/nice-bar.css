@@ -1,7 +1,7 @@
 .nice-bar {
     display: none;
     width: 100%;
-    background: #215870;
+    background: none;
     border-bottom: 3px solid #ffffff;
 }
 .nice-bar .nice-text {
