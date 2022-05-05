@@ -9,21 +9,9 @@ echo '  <link rel="stylesheet" type="text/css" href="https://fossee.in/data/bann
         
 <a class="nice-text" href="https://hackathon.fossee.in/python/" target="_blank">  
 <img src="https://static.fossee.in/fellowship2022/web-bnr.gif">
-</a>
+</a> 
 </div> 
 ';
-;}
 
-// else{
-// echo '<link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
-//           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
-//            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
-// <div style="margin-bottom:5px;border-bottom:none;width:90%">
-// <a  href="https://fossee.in/fellowship/2022" target="_blank" >  
-// <img src="https://static.fossee.in/fellowship2022/web-bnr.gif"> 
-// </a>
-// </div>
-// ';
-// }
-
+}
 ?>
