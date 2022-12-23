@@ -1,13 +1,13 @@
 <?php
 $today = date("Y-m-d H:i:s");
-$p_date = "2022-08-15 23:59:59.0";
+$p_date = "2023-01-05 23:59:59.0";
 if($today<$p_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
 <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
         
-<img src="https://static.fossee.in/fossee/banners/har_ghar_tiranga.png">
+<a href="https://hackathon.fossee.in/2D-animation/" target="_blank"><img src="https://static.fossee.in/focal/banners/2D_animation_web_banner.png"></a>
 
 </div> 
 ';
