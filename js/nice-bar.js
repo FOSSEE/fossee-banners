@@ -17,7 +17,7 @@ $(document).ready(function() {
                // $('.nice-bar').css('background', bak[i]);
                 $cur.show();
             }
-        }, 4500);
+        }, 6000);
     });
 
     $('.nice-bar').mouseenter(function() {
