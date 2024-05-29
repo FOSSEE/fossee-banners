@@ -7,27 +7,14 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
 
-           <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
-           <a class="nice-text" href="https://fossee.in/fellowship/2024" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/webbnr-FSF24ap.png">
-           </a>    
-           <a class="nice-text" href="https://animate2024.fossee.in/" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/web-bnr-animate.gif">
-           </a>
-       </div> 
-       ';
-        // class="nice-bar" class="nice-text"
-       }
-       else{
-           echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
-                 <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
-                  <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
-       <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
+           <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
           
            <a href="https://animate2024.fossee.in/" target="_blank">
                <img src="https://static.fossee.in/fossee/banners/web-bnr-animate.gif">
            </a>
        </div> 
        ';
+        // class="nice-bar" class="nice-text"
        }
+       
        ?>
