@@ -7,7 +7,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
 
-           <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
+           <div style="margin-bottom:5px; border-bottom:none; width:60%; background-color:transparent;">
           
            <a href="https://animate2024.fossee.in/" target="_blank">
                <img src="https://static.fossee.in/focal/banners/web-bnr-05.gif">
