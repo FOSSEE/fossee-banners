@@ -10,7 +10,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
           
            <a href="https://fossee.in/winter-internship/2024" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/winter-inter-bnr_02.gif>
+               <img src="https://static.fossee.in/fossee/banners/winter-inter-bnr_02.gif">
            </a>
        </div> 
        ';
