@@ -1,7 +1,7 @@
 <?php
 $today = date("Y-m-d H:i:s");
 $hackathon_date = "2025-02-10 23:59:59.0";
-$fellowship_date = "2025-01-31 23:59:59.0";
+$fellowship_date = "2025-02-05 23:59:59.0";
 if($today<$fellowship_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
@@ -12,7 +12,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
                <img src="https://static.fossee.in/scilab/banners/sci-webbnr-96.gif">
            </a>   
             <a class="nice-text" href="https://fossee.in/semester-internship/2025" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/three.gif">
+               <img src="https://static.fossee.in/fossee/banners/webbnr-date-extended.gif">
            </a>
            
            
