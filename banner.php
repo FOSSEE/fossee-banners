@@ -1,6 +1,6 @@
 <?php
 $today = date("Y-m-d H:i:s");
-$hackathon_date = "2025-02-10 23:59:59.0";
+$hackathon_date = "2025-02-5 23:59:59.0";
 $fellowship_date = "2025-02-05 23:59:59.0";
 if($today<$fellowship_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
