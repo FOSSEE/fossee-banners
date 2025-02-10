@@ -29,7 +29,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
                   <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
        <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
           
-          <a href="hhttps://scilab-hackathon.fossee.in/" target="_blank">
+          <a href="https://scilab-hackathon.fossee.in/" target="_blank">
                <img src="https://static.fossee.in/scilab/banners/sci-webbnr-96.gif">
            </a>  
        </div> 
