@@ -23,7 +23,9 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
        ';
         // class="nice-bar" class="nice-text"
        }
-       else{
+       
+
+       /*else{
            echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
                  <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
                   <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
@@ -34,7 +36,5 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            </a>  
        </div> 
        ';
-       }
-
-       
+}*/
        ?>
