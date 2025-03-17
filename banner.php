@@ -9,7 +9,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
 
            <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
 
-          <a class="nice-text" href="https://fossee.in/fellowship/2025" target="_blank">
+          <a href="https://fossee.in/fellowship/2025" target="_blank">
                <img src="https://static.fossee.in/fossee/banners/web-bnr.gif.gif">
            </a>
             <!--<a class="nice-text" href="https://scilab-hackathon.fossee.in/" target="_blank">
