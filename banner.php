@@ -1,7 +1,7 @@
 <?php
 $today = date("Y-m-d H:i:s");
 $hackathon_date = "2025-02-5 23:59:59.0";
-$fellowship_date = "2025-04-07 23:59:59.0";
+$fellowship_date = "2025-04-09 23:59:59.0";
 if($today<$fellowship_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
@@ -10,7 +10,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
 
           <a href="https://fossee.in/fellowship/2025" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/web-bnr.gif.gif">
+               <img src="https://static.fossee.in/fossee/banners/SF_2025_extention.gif">
            </a>
             <!--<a class="nice-text" href="https://scilab-hackathon.fossee.in/" target="_blank">
                 <img src="https://static.fossee.in/scilab/banners/sci-webbnr-96.gif">
