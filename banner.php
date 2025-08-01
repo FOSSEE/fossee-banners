@@ -10,8 +10,8 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
 
            <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
 
-          <a  href="https://animate2025.fossee.in/" target="_blank">
-               <img src="https://static.fossee.in/fossee/banners/webbnr.gif">
+          <a  href="https://animate2025.fossee.in/workshop/" target="_blank">
+               <img src="https://static.fossee.in/focal/banners/webbnr-02.gif">
            </a>
             <!--<a class="nice-text" href="https://scilab-hackathon.fossee.in/" target="_blank">
                 <img src="https://static.fossee.in/scilab/banners/sci-webbnr-96.gif">
