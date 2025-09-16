@@ -18,7 +18,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            </a>
 
            <a class="nice-text" href="https://esim-hackathon-2025.fossee.in/" target="_blank">
-          <img src="https://static.fossee.in/fossee/banners/eSim-webbnr.gif">
+          <img src="https://static.fossee.in/fossee/banners/webbnr-04.gif">
            </a>
             
            
@@ -38,7 +38,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
        <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
           
                      <a  href="https://esim-hackathon-2025.fossee.in/" target="_blank">
-          <img src="https://static.fossee.in/fossee/banners/eSim-webbnr.gif">
+          <img src="https://static.fossee.in/fossee/banners/webbnr-04.gif">
            </a>
   
        </div> 
