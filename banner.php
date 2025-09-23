@@ -13,13 +13,13 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
 
            
-           <a class="nice-text" href="https://fossee.in/Semester-Internship/Autumn/2025" target="_blank">
+           <!-- <a class="nice-text" href="https://fossee.in/Semester-Internship/Autumn/2025" target="_blank">
           <img src="https://static.fossee.in/fossee/banners/Webbnr-05.gif">
            </a>
 
            <a class="nice-text" href="https://esim-hackathon-2025.fossee.in/" target="_blank">
           <img src="https://static.fossee.in/fossee/banners/webbnr-04.gif">
-           </a>
+           </a> -->
             
            
            
@@ -32,7 +32,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
        
 
        else{
-           echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
+        <!--   echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
                  <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
                   <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
        <div style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
@@ -41,7 +41,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
           <img src="https://static.fossee.in/fossee/banners/webbnr-04.gif">
            </a>
   
-       </div> 
+       </div> -->
        ';
 }
        ?>
