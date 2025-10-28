@@ -1,7 +1,7 @@
 <?php
 $today = date("Y-m-d H:i:s");
 $hackathon_date = "2025-02-5 23:59:59.0";
-$autumn_date = "2025-27-10 23:59:59.0";
+$autumn_date = "2025-10-27 23:59:59.0";
 
 if($today<$autumn_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
