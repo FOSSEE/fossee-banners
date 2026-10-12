@@ -3,7 +3,7 @@ $today = date("Y-m-d H:i:s");
 $oshw_hackathon_date = "2026-09-30 23:59:59.0";
 $autumn_date = "2026-08-23 23:59:59.0";
 
-if($today<$autumn_date){
+<!-- if($today<$autumn_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
@@ -37,7 +37,7 @@ echo '
        </div> 
        ';
 
-}
+} -->
           
           
        
